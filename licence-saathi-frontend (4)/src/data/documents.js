@@ -1,0 +1,8 @@
+export const documentChecklist = [
+  { id:'age', en:'Proof of age', hi:'उम्र का प्रमाण', ta:'வயது சான்று', examplesEn:'Birth certificate, passport or school certificate', examplesHi:'जन्म प्रमाणपत्र, पासपोर्ट या स्कूल प्रमाणपत्र', examplesTa:'பிறப்பு சான்றிதழ், பாஸ்போர்ட் அல்லது பள்ளிச் சான்றிதழ்' },
+  { id:'address', en:'Proof of address', hi:'पते का प्रमाण', ta:'முகவரி சான்று', examplesEn:'Aadhaar, voter card or utility bill', examplesHi:'आधार, वोटर कार्ड या बिजली का बिल', examplesTa:'ஆதார், வாக்காளர் அட்டை அல்லது மின்சார ரசீது' },
+  { id:'photo', en:'Passport-size photo', hi:'पासपोर्ट आकार की फोटो', ta:'பாஸ்போர்ட் அளவு புகைப்படம்', examplesEn:'A recent passport-size photo with a clear face', examplesHi:'हाल की पासपोर्ट आकार की साफ फोटो', examplesTa:'முகம் தெளிவாகத் தெரியும் சமீபத்திய பாஸ்போர்ட் அளவு புகைப்படம்' },
+  { id:'signature', en:'Your signature', hi:'आपका हस्ताक्षर', ta:'உங்கள் கையொப்பம்', examplesEn:'A signature on plain white paper', examplesHi:'सफेद कागज पर किया गया हस्ताक्षर', examplesTa:'வெள்ளை காகிதத்தில் உங்கள் கையொப்பம்' },
+  { id:'fitness', en:'Self-declaration of fitness', hi:'फिटनेस की स्व-घोषणा', ta:'உடல் தகுதி சுய அறிவிப்பு', examplesEn:'A simple statement that you are fit to drive', examplesHi:'आप वाहन चलाने के लिए फिट हैं, ऐसी सरल घोषणा', examplesTa:'நீங்கள் வாகனம் ஓட்டத் தகுதியானவர் என்று சொல்லும் எளிய அறிவிப்பு' },
+  { id:'doctor', en:'Doctor’s certificate', hi:'डॉक्टर का प्रमाणपत्र', ta:'மருத்துவர் சான்றிதழ்', examplesEn:'A certificate from a registered doctor', examplesHi:'पंजीकृत डॉक्टर का प्रमाणपत्र', examplesTa:'பதிவு செய்யப்பட்ட மருத்துவரின் சான்றிதழ்' }
+]
